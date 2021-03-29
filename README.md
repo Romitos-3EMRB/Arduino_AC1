@@ -21,6 +21,10 @@ Meu nome é Daniel Ruckert da Gama, tenho 16 anos e sou estudante no Colégio M�
 
 ![](https://github.com/Romitos-3EMRB/Arduino_AC1/blob/9919fbb0552703571fe1c7d1f7d660e1656ff2f5/Ana%20Carolina%20.JPEG)
 
+Olá meu nome é Ana Carolina, tenho 16 anos, estudo no colégio Módulo desde 2013. Sou responsável por colocar as fotos e algumas informações sobre os integrantes do grupo.
+
+
+
 ## **O PROBLEMA:** 
 
 Seu grupo foi contratado para realizar a automação do chão de fábrica de uma farmacêutica responsável por produzir doses de vacina, a automação levará em conta alguns sensores e avisos luminosos para os funcionários responsáveis pela produção.
