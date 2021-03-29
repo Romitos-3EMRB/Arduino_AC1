@@ -5,6 +5,7 @@ Use o FORK para adicionar esse projeto a sua organização antes de começar.
 
 ![](https://img.shields.io/github/forks/Leoruiz197/Arduino_AC1)
 ![](https://img.shields.io/github/stars/Leoruiz197/Arduino_AC1)
+![](https://github.com/Romitos-3EMRB/Arduino_AC1/blob/4adf864035dca1cad0b5b23c928bdeae8b91fdd9/Gustavo%20Romano.JPG)
 
 ![](https://github.com/Romitos-3EMRB/Arduino_AC1/blob/main/Arduino%20AC1.png)
 
