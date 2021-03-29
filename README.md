@@ -5,7 +5,6 @@ Use o FORK para adicionar esse projeto a sua organização antes de começar.
 
 ![](https://img.shields.io/github/forks/Leoruiz197/Arduino_AC1)
 ![](https://img.shields.io/github/stars/Leoruiz197/Arduino_AC1)
-![](https://github.com/Romitos-3EMRB/Arduino_AC1/blob/9919fbb0552703571fe1c7d1f7d660e1656ff2f5/Enzo%20Fasanella%20.JPG)
 
 ![]()
 
@@ -23,6 +22,9 @@ Meu nome é Daniel Ruckert da Gama, tenho 16 anos e sou estudante no Colégio M�
 
 Olá meu nome é Ana Carolina, tenho 16 anos, estudo no colégio Módulo desde 2013. Sou responsável por colocar as fotos e algumas informações sobre os integrantes do grupo.
 
+![](https://github.com/Romitos-3EMRB/Arduino_AC1/blob/9919fbb0552703571fe1c7d1f7d660e1656ff2f5/Enzo%20Fasanella%20.JPG)
+
+Olá meu nome é Enzo Fasanella, tenho 16 anos entrei no Módulo esse ano e eu serei responsável pela parte da documentação, ou seja toda a parte das alterações que os membros fazem para contribuir com o trabalho vou documentar tudo.
 
 
 ## **O PROBLEMA:** 
