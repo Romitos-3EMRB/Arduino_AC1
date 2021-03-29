@@ -1,5 +1,5 @@
 # Arduino_AC1
-## Nossa primeira AC, observe bem o código, procure pelos erros.
+## Romitos - AC primeiro trimestre 
 
 Use o FORK para adicionar esse projeto a sua organização antes de começar.
 
