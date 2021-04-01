@@ -12,7 +12,7 @@ Use o FORK para adicionar esse projeto a sua organização antes de começar.
 
 ![](https://github.com/Romitos-3EMRB/Arduino_AC1/blob/4adf864035dca1cad0b5b23c928bdeae8b91fdd9/Gustavo%20Romano.JPG)
 
-Meu nome é Gustavo Romano, tenho 17 anos, estudo no colégio módulo e sou o responsável pela alteração e validação do código, mais especificamente na parte de acender o led vermelho e a sender o led de temperatura
+Meu nome é Gustavo Romano, tenho 17 anos, estudo no colégio módulo e sou o responsável pela alteração e validação do código, mais especificamente na parte de acender o led vermelho e acender o led de temperatura
 
 ![](https://github.com/Romitos-3EMRB/Arduino_AC1/blob/9919fbb0552703571fe1c7d1f7d660e1656ff2f5/Daniel%20Ruckert%20.JPG)
 
