@@ -8,7 +8,6 @@ Use o FORK para adicionar esse projeto a sua organização antes de começar.
 
 ![]()
 
-![](https://github.com/Romitos-3EMRB/Arduino_AC1/blob/main/Arduino%20AC1.png)
 
 ![](https://github.com/Romitos-3EMRB/Arduino_AC1/blob/4adf864035dca1cad0b5b23c928bdeae8b91fdd9/Gustavo%20Romano.JPG)
 
@@ -27,6 +26,7 @@ Olá meu nome é Ana Carolina, tenho 16 anos, estudo no colégio Módulo desde 2
 Olá meu nome é Enzo Fasanella, tenho 16 anos entrei no Módulo esse ano e eu serei responsável pela parte da documentação, ou seja toda a parte das alterações que os membros fazem para contribuir com o trabalho vou documentar tudo.
 
 
+![](https://github.com/Romitos-3EMRB/Arduino_AC1/blob/main/Arduino%20AC1.png)
 ## **O PROBLEMA:** 
 
 Seu grupo foi contratado para realizar a automação do chão de fábrica de uma farmacêutica responsável por produzir doses de vacina, a automação levará em conta alguns sensores e avisos luminosos para os funcionários responsáveis pela produção.
