@@ -29,7 +29,11 @@ Olá meu nome é Enzo Fasanella, tenho 16 anos entrei no Módulo esse ano e eu s
 ![](https://github.com/Romitos-3EMRB/Arduino_AC1/blob/main/Arduino%20AC1.png)
 ## **O PROBLEMA:** 
 
-Seu grupo foi contratado para realizar a automação do chão de fábrica de uma farmacêutica responsável por produzir doses de vacina, a automação levará em conta alguns sensores e avisos luminosos para os funcionários responsáveis pela produção.
-
-Após realizar a montagem, vamos conferir a lista de funcionalidades e adicionar cada ponto necessário para completar o desafio.
+O nosso grupo formado por Ana Carolina, Daniel Ruckert, Enzo Fasanella e Gustavo Romano foi contratado para resolver alguns problemas de automação do chão de uma fábrica farmacêutica responsável por produzir doses de vacina. Nós tivemos que reparar alguns sensores e avisos luminosos para que os funcionários responsáveis pela produção pudesse trabalhar da melhor forma possível, sem ter que se expor a algum risco, ou para que não haja erro na fabricação dos produtos. Com isso, para que pudéssemos realizar a entrega do que nos foi constatado em um curto prazo, e sem que houvesse nenhum tipo de erro, nosso grupo se organizou da seguinte forma para a realização do trabalho:
+	 O Gustavo foi responsável pela criação e validação do código;
+         A Ana por criar a descrição dos  membros, para que todos pudessem nos conhecer melhor;
+         O Enzo pela parte da documentação e detalhamento do projeto;
+         O Daniel foi o responsável pelas ligações e alterações feitas no arduíno.
+	Para finalizarmos o  projeto do jeito esperado, nós tivemos que  adicionar um botão para ligar e outro para desligar a produção, sendo indicado por um led vermelho, fizemos também a leitura do sensor de temperatura e testes, para quando atingir 15°C o led azul acender e somente apagar  quando a temperatura for mais baixa que a mesma indicada, e também o desenvolvimento da leitura do sensor de luminosidade, que ao indicar um valor acima de 5 apontará que  o mesmo está muito alto sendo informado via serial, assim fazendo com que um led verde acenda até a luz do ambiente diminuir, consequentemente diminuindo o valor para abaixo de 5.
+	Esse foi um projeto muito incrível de ser realizado, já que aprendemos muita coisa nova na própria parte de criação de código, na maneira ideal de se organizar um grupo e até mesmo na parte de mexer em uma rede social nova, que é própria para quem programa. Com isso, obtivemos diversos desafios e algumas dificuldades coletivas, porém a parte em que tivemos mais dificuldade em todo o  processo, foi na implementação do código, já que tivemos que solicitar ajuda do professor responsável por nos auxiliar, para que de fato pudéssemos fazer a finalização em conjunto e corrigir as falhas que obtinham.
 
